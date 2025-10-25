@@ -98,9 +98,6 @@ sections:
             padding:
               - pt-0
       - type: ImageBlock
-        url: /images/telus-logo.svg
-        altText: Telus logo
-      - type: ImageBlock
         url: /images/contenful-logo.svg
         altText: Contentful logo
       - type: ImageBlock
