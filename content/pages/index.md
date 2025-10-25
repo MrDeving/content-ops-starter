@@ -196,6 +196,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pb-64
       subtitle:
         textAlign: center
     type: ImageGallerySection
