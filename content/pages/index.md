@@ -116,7 +116,7 @@ sections:
           - mt-0
           - ml-0
           - mb-0
-          - mr-11
+          - mr-0
       subtitle:
         textAlign: center
   - title:
