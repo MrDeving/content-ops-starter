@@ -210,6 +210,10 @@ sections:
       - type: ImageBlock
         url: /images/Pokemon SOL NUCLEAR RXN!! - 6-export.png
         altText: Wellster logo
+        styles:
+          self:
+            padding:
+              - pt-1
       - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
