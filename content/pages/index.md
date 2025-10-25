@@ -213,7 +213,7 @@ sections:
         styles:
           self:
             padding:
-              - pt-2
+              - pt-0
       - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
