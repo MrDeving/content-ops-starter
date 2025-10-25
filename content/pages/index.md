@@ -228,6 +228,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-36
       subtitle:
         textAlign: center
   - title:
