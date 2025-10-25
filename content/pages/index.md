@@ -98,9 +98,6 @@ sections:
             padding:
               - pt-0
       - type: ImageBlock
-        url: /images/vise-logo.svg
-        altText: Vise logo
-      - type: ImageBlock
         url: /images/telus-logo.svg
         altText: Telus logo
       - type: ImageBlock
