@@ -208,7 +208,7 @@ sections:
         url: /images/empathy-logo.svg
         altText: Empathy logo
       - type: ImageBlock
-        url: /images/Pokemon ZA thumbnail - 7.png
+        url: /images/Pokemon SOL NUCLEAR RXN!! - 6-export.png
         altText: Wellster logo
       - type: ImageBlock
         url: /images/vise-logo.svg
