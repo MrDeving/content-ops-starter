@@ -53,9 +53,6 @@ sections:
           - pr-16
   - subtitle: Thumbnails i made
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
       - url: /images/Pokemon ZA thumbnail - 7.png
         altText: Wellster logo
         type: ImageBlock
