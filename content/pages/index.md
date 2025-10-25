@@ -111,6 +111,11 @@ sections:
         padding:
           - pt-2
           - pb-0
+        margin:
+          - mt-2
+          - ml-2
+          - mb-2
+          - mr-2
       subtitle:
         textAlign: center
   - title:
