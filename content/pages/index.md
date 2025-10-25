@@ -56,7 +56,7 @@ sections:
       - url: /images/Pokemon ZA thumbnail - 7.png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/This New Pokemon Vanguard game is AWESOME! - 5-export.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
