@@ -205,7 +205,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/This Is Why There Is No GOOD Poketuber - 6-export.png
         altText: Empathy logo
       - type: ImageBlock
         url: /images/Pokemon SOL NUCLEAR RXN!! - 6-export.png
