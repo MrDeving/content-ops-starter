@@ -179,7 +179,7 @@ sections:
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/This New Pokemon Vanguard game is AWESOME! - 5-export.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
