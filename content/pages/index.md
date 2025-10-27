@@ -89,7 +89,7 @@ sections:
             padding:
               - pt-0
       - type: ImageBlock
-        url: /images/sanity-logo.svg
+        url: /images/2.png
         altText: Sanity logo
       - type: ImageBlock
         url: /images/rangle-logo.svg
