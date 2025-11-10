@@ -59,7 +59,7 @@ sections:
       - url: /images/This New Pokemon Vanguard game is AWESOME! - 5-export.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/2.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/9.png
