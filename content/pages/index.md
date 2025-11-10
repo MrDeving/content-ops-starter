@@ -92,7 +92,7 @@ sections:
         url: /images/2.png
         altText: Sanity logo
       - type: ImageBlock
-        url: /images/rangle-logo.svg
+        url: /images/1.png
         altText: Rangle logo
     motion: move-to-right
     colors: bg-light-fg-dark
